@@ -79,4 +79,7 @@ Confirm the order
 
 This is how a user can interact with the DesginBOT system. 
 
+![alt text](https://github.com/Krushan1/User-Interaction-Project/blob/master/domain_analysis.jpg)
+
+
  
